@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export class Footer extends Component {
   render() {
     return (
-      <footer className="bg-gray-900 text-white py-6">
+      <footer className="bg-gray-900 text-white py-6 sm-">
         <div className="container mx-auto flex justify-between">
           <div className=" items-center">
             <img src="/logo.svg" alt="Logo" className="h-10" />
