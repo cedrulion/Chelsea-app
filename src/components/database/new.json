@@ -1,0 +1,46 @@
+{
+  "Cards": [
+    {
+      "Player": "Mason Mount",
+      "Salary": "152K$",
+      "Age": "24",
+      "Pic": "https://i2-prod.mirror.co.uk/incoming/article29394442.ece/ALTERNATES/s1200d/0_Mason-Mount-5jp.jpg",
+      "id": 3
+    },
+    {
+      "Player": "Enzo Fernandez",
+      "Salary": "200k$",
+      "Age": "23",
+      "Pic": "https://cdn1.thechelseachronicle.com/uploads/17/2023/03/GettyImages-1247896276.jpg",
+      "id": 6
+    },
+    {
+      "Player": "THIAGO SILVA",
+      "Salary": "50K$",
+      "Age": "33",
+      "Pic": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Thiago_Silva_with_Club_World_Cup_Trophy_2022.jpg",
+      "id": 7
+    },
+    {
+      "Player": "Mason Mount",
+      "Salary": "152K$",
+      "Age": "24",
+      "Pic": "https://i2-prod.mirror.co.uk/incoming/article29394442.ece/ALTERNATES/s1200d/0_Mason-Mount-5jp.jpg",
+      "id": 8
+    },
+    {
+      "Player": "Enzo Fernandez",
+      "Salary": "200k$",
+      "Age": "23",
+      "Pic": "https://cdn1.thechelseachronicle.com/uploads/17/2023/03/GettyImages-1247896276.jpg",
+      "id": 9
+    },
+    {
+      "Player": "THIAGO SILVA",
+      "Salary": "50K$",
+      "Age": "33",
+      "Pic": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Thiago_Silva_with_Club_World_Cup_Trophy_2022.jpg",
+      "id": 10
+    }
+  ]
+}
