@@ -9,8 +9,9 @@ import Homepage from './components/Homepage';
 import Players from './components/Players';
 import Create from './components/Create'
 import News from './components/News';
-
-
+import Footer from './components/Footer';
+import Header from './components/Header'
+import Cfooter from './components/Cfooter'
 
 class App extends Component {
 
@@ -22,7 +23,7 @@ class App extends Component {
     return (
     <div className="App">
    
-      <Routes>
+      {/* <Routes>
               <Route path="/Homepage" element={<Homepage/>}></Route>
               
               <Route path="/Shop" element={<Shop/>}></Route>
@@ -33,7 +34,9 @@ class App extends Component {
               
             
               
-            </Routes>
+            </Routes> */}
+            <Header/>
+            <Cfooter/>
             
         
           </div>      

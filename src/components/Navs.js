@@ -37,7 +37,7 @@ class Navs extends Component {
        <li className='my-4'> <Link to="/Shop" className=" font-semibold mx-4 hover:text-gray-200">Shop</Link></li> 
       </ul>
     }
-
+https://1c452a5c.chelsea-app.pages.dev
       </div>
     );
   }
