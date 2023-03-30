@@ -23,7 +23,7 @@ class App extends Component {
     return (
     <div className="App">
    
-      {/* <Routes>
+      <Routes>
               <Route path="/Homepage" element={<Homepage/>}></Route>
               
               <Route path="/Shop" element={<Shop/>}></Route>
@@ -34,9 +34,8 @@ class App extends Component {
               
             
               
-            </Routes> */}
-            <Header/>
-            <Cfooter/>
+            </Routes>
+          
             
         
           </div>      
